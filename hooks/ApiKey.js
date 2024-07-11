@@ -1,0 +1,1 @@
+export const ApiKey = "https://api-digis-assur.weelite.pro/api";

@@ -1,0 +1,23 @@
+{
+    "Hey" : "Hey",
+    "Connectez-vous" : "Log in",
+    "Adresse email" : "E-mail address",
+    "Mot de passe" : "Password",
+    "Souscrire à une assurance frontière" : "Subscribe to border insurance",
+    "Mot de passe oublié" : "Forgot your password",
+    "Entrez votre email et nous vous enverrons des instructions pour réinitialiser votre mot de passe" : "Enter your email and we will send you instructions to reset your password",
+    "Réinitialiser votre mot de passe" : "Reset your password",
+    "Retour" : "Back",
+    "Valider" : "Validate",
+    "Change Password" : "Change Password",
+    "New password" : "New password",
+    "Confirm password" : "Confirm password",
+    "Souscrire" : "Subscribe",
+    "Renouvellement" : "Renewal",
+    "Mes documents" : "My Documents",
+    "Personne Physique" : "Physical Person",
+    "Personne Morale" : "Moral Person",
+    "Adresse complète *" :"Complete Address *",
+    "Nom *" : "Last name *",
+    "Prénom *" : "First name *"
+} 
